@@ -1,8 +1,8 @@
 
 # Nicolas Lavanderos 😎
   
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nicol%C3%A1s-lavanderos-flores-31779118b/)
-  [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="3.5%"/>](https://stackoverflow.com/users/12532945/setxh)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/nicol%C3%A1s-lavanderos-flores-31779118b/)
+  [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="4.5%"/>](https://stackoverflow.com/users/12532945/setxh)
   
   ### About Me :
   
@@ -16,6 +16,8 @@
   
   <code><img height="40" src="https://github.com/nlavanderos/nlavanderos/blob/master/images/python_18894.png"></code>
   <code><img height="40" src="https://github.com/nlavanderos/nlavanderos/blob/master/images/javascript_icon_130900.png"></code>
+  <code><img height="40" src="https://github.com/nlavanderos/nlavanderos/blob/master/images/sql-file-rounded-rectangular-outlined-interface-symbol_icon-icons.com_57503.png"></code>
+  
   <br></br>
  
  
