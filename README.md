@@ -12,5 +12,4 @@
     If i had to say something in summary was be i love knowledge in different areas and the professional challenges.🙌
   
   #### 👨🏻‍💻 Languages and Tools : 
-  <code><img height="40" src="https://github.com/vanigupta20024/vanigupta20024/blob/main/images/bash.png"></code>
-  <code><img height="40" src="https://github.com/vanigupta20024/vanigupta20024/blob/main/images/python.png"></code>
+  
