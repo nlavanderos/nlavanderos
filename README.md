@@ -1,9 +1,9 @@
 
-# Nicolas Lavanderos :star:
+# Nicolas Lavanderos 😎
   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nicol%C3%A1s-lavanderos-flores-31779118b/)
   
-  [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/12532945/setxh)
+  [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="3.5%"/>](https://stackoverflow.com/users/12532945/setxh)
   
   ### About Me :
   
@@ -11,6 +11,13 @@
 
     If i had to say something in summary was be i love knowledge in different areas and the professional challenges.🙌
   
-  #### 👨🏻‍💻 Languages and Tools : 
-  <code><img height="40" src="https://github.com/vanigupta20024/vanigupta20024/blob/main/images/bash.png"></code>
-  <code><img height="40" src="https://github.com/vanigupta20024/vanigupta20024/blob/main/images/python.png"></code>
+  #### 👨🏻‍💻 Languages and Tools :
+  
+  <code><img height="40" src="https://github.com/nlavanderos/nlavanderos/blob/master/images/python_18894.png"></code>
+  <code><img height="40" src="https://github.com/nlavanderos/nlavanderos/blob/master/images/javascript_icon_130900.png"></code>
+ 
+ 
+ [![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nlavanderos)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+ <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlavanderos&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
